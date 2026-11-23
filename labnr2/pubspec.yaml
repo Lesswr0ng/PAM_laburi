@@ -33,6 +33,7 @@ dependencies:
   google_fonts: ^6.2.1
 
   cupertino_icons: ^1.0.8
+  flutter_bloc: ^9.1.1
 
 dev_dependencies:
   flutter_test:
@@ -57,6 +58,7 @@ flutter:
   uses-material-design: true
   assets:
     - assets/images/
+    - assets/data/lab_v4.json
 
   # To add assets to your application, add an assets section, like this:
   # assets:
